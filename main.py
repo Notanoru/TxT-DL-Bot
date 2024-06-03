@@ -40,9 +40,9 @@ bot = Client(
 
 bot_token=Config.BOT_TOKEN
 bot1 = telegram.Bot(token=bot_token)
-channel = f'@shimperdBots'
+channel = f'@shimperd_Bot'
 owner = f'@shimperd_bot'
-pdf = f'@TxT_DLBot.pdf'
+pdf = f'@shimperd_bot.pdf'
 video = f'@shimperd_bot.mp4'
 mkv = f'@shimperd_bot.mkv'
 
